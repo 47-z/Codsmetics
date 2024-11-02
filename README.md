@@ -1,6 +1,8 @@
 # Codsmetics
 A mod that adds new cosmetics to WEBFISHING.
 
+![codsmetics](https://github.com/user-attachments/assets/c86283d7-0754-4d7d-b322-4b3d679326de)
+
 ## Requirements
  - [Lure](https://github.com/Sulayre/WebfishingLure) 
  - [GDWeave](https://github.com/NotNite/GDWeave/tree/main)
