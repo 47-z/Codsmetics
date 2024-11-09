@@ -11,7 +11,4 @@ Modded cosmetics can not be seen by players that don't have the mod installed. Y
 
 ## Future Development
  - Original cosmetics
-	- Spiked collar
-	- Angel halo
-	- Wings (multiple varieties)
- - and more... :3
+ - More particle cosmetics
