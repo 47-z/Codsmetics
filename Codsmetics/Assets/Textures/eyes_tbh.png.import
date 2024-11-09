@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/overall_blue.png-f15c0353e58026bb14d47124f59fdd06.stex"
+path="res://.import/eyes_tbh.png-f02469f3606c7ef647be6498c2dd1211.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/Codsmetics/Assets/overall_blue.png"
-dest_files=[ "res://.import/overall_blue.png-f15c0353e58026bb14d47124f59fdd06.stex" ]
+source_file="res://mods/Codsmetics/Assets/Textures/eyes_tbh.png"
+dest_files=[ "res://.import/eyes_tbh.png-f02469f3606c7ef647be6498c2dd1211.stex" ]
 
 [params]
 
